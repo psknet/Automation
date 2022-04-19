@@ -1,4 +1,4 @@
 
 public class test {
-g4
+g4w
 }
