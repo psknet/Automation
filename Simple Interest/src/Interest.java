@@ -23,7 +23,7 @@ public class Interest {
 			System.out.println("Please enter the Time in years");
 			Time = readinput.nextDouble();
 			
-			// Performing Interest Calculations
+			// Performing Interest Calculation
 			double interestresult = (Principal * (RateofInterest / 100) * Time);
 			
 			System.out.println("The simple Interest calculated $" + interestresult);
